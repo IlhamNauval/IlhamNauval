@@ -1,5 +1,8 @@
-## Hi there 👋
+# **Ilham Nauval Andrika - Data Analyst / Data Scientist**
 
+👋 **Hello and welcome!**
+
+I’m *Ilham Nauval Andrika*, an economics graduate with a strong interest and passion for transforming data into valuable insights. To pursue this interest, I decided to switch careers and joined the Hacktiv8 Full-Time Data Science Bootcamp, where I learned the roles and required skills of Data Analysts, Data Scientists, and Data Engineers. I’m now eager to kickstart my career by applying my skills in an entry-level Data Analyst role.
 <!--
 **IlhamNauval/IlhamNauval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
