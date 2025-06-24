@@ -10,7 +10,7 @@ I’m *Ilham Nauval Andrika*, an economics graduate with a strong interest and p
 - 🎯 **Goal**: Transform data into actionable insights that drive decision-making and business growth.
 - 🌱 **Currently Learning**: SQL optimization, advanced data visualization techniques (Power BI), and deployment of data science models.
 - 🌐 **Background Insight**:
-  Academic foundation in Economics with a focus on econometrics and time series analysis. My undergraduate thesis applied the Vector Error Correction Model (VECM) to analyze Indonesia’s external debt, strengthening my expertise in statistical analysis and forecasting.
+  Academic foundation in Economics with a focus on econometrics, time series analysis, macroeconomics and microeconomics. My undergraduate thesis applied the Vector Error Correction Model (VECM) to analyze Indonesia’s external debt, strengthening my expertise in statistical analysis and forecasting.
 
 ---
 
