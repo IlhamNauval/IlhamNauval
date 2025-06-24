@@ -35,7 +35,7 @@ I’m *Ilham Nauval Andrika*, an economics graduate with a strong interest and p
 - **Hacktiv8 Full Time Data Science Bootcamp**  
   *Core Skills Developed*: Python, Exploratory Data Analysis (EDA), Machine Learning, Deep Learning, Data Visualitation
 
-- **Bachelor of Economics – Muhammadiyah University of Yogyakarta
+- **Bachelor of Economics – Muhammadiyah University of Yogyakarta**
   *Focus*: Econometrics, Time Series Analysis, Macroeconomics, Microeconomics
   
 
